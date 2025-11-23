@@ -323,7 +323,7 @@ Updates will be released as needed based on bug fixes and new features.
 
 **DO NOT** open a public issue. Instead:
 
-**Email:** security@randomix.app *(placeholder - update with real email)*
+**Email:** dev@brunettospinelli.it
 
 Include:
 - Vulnerability description
@@ -354,7 +354,7 @@ I'm committed to providing a welcoming, inclusive, harassment-free experience fo
 - Trolling or sustained disruption
 
 ### Enforcement
-Violations should be reported to: conduct@randomix.app *(placeholder - update with real email)*
+Violations should be reported to: dev@brunettospinelli.it
 
 I may remove, edit, or reject contributions that violate this Code of Conduct.
 

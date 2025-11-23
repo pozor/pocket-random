@@ -177,7 +177,7 @@ Since Randomix collects no data and operates entirely offline:
 Questions about this Privacy Policy?
 
 - **GitHub Issues**: [Open a question issue](https://github.com/pozor/randomix/issues/new?template=question.md)
-- **Email**: privacy@randomix.app *(placeholder - update with real email)*
+- **Email**: dev@brunettospinelli.it
 
 I'll respond within 48 hours.
 

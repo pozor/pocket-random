@@ -92,7 +92,7 @@ Questions are welcome! Topics might include:
 
 Prefer email over GitHub?
 
-**Email:** support@randomix.app *(placeholder - update with real email)*
+**Email:** dev@brunettospinelli.it
 
 **Response time:** I'll respond within 48 hours (usually faster)
 
@@ -127,7 +127,11 @@ Randomix is available in 6 languages:
 
 ## ♿ Accessibility Support
 
-Randomix is WCAG 2.1 Level AA compliant. If you encounter accessibility issues:
+Randomix is designed to meet **WCAG 2.1 Level AA** standards, ensuring accessibility for all users.
+
+**[Read Full Accessibility Statement →](ACCESSIBILITY.md)**
+
+If you encounter accessibility issues:
 
 **[Report Accessibility Issue →](https://github.com/pozor/randomix/issues/new?template=bug_report.md)**
 
@@ -151,7 +155,7 @@ See the [Privacy Policy](PRIVACY_POLICY.md).
 ### Security Concerns
 Found a security vulnerability? Please report it privately:
 
-**Email:** security@randomix.app *(placeholder - update with real email)*
+**Email:** dev@brunettospinelli.it
 
 **Do NOT open a public issue for security vulnerabilities.**
 
@@ -264,6 +268,7 @@ I appreciate your patience and feedback. Randomix is built for users like you!
 - [Report Bug](https://github.com/pozor/randomix/issues/new?template=bug_report.md)
 - [Request Feature](https://github.com/pozor/randomix/issues/new?template=feature_request.md)
 - [Ask Question](https://github.com/pozor/randomix/issues/new?template=question.md)
+- [Accessibility Statement](ACCESSIBILITY.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
 - [FAQ](FAQ.md)
 

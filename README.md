@@ -86,6 +86,8 @@ Each distribution includes:
 - **Motion Actuation (WCAG 2.5.4)**: Shake-to-generate is opt-in with UI alternative
 - 225+ translations across 6 languages
 
+**[Read Full Accessibility Statement →](ACCESSIBILITY.md)**
+
 ### 🔒 Privacy First
 - **100% offline**: All data stored locally on your device
 - **No tracking**: Zero analytics or telemetry
@@ -188,7 +190,7 @@ Built with:
 ## 📮 Contact
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/pozor/randomix/issues)
-- **Email**: support@randomix.app *(placeholder - update with real email)*
+- **Email**: dev@brunettospinelli.it
 
 ---
 
@@ -196,7 +198,7 @@ Built with:
 
 **Made with ❤️ for the randomness enthusiasts**
 
-[Privacy Policy](PRIVACY_POLICY.md) • [Support](SUPPORT.md) • [Contributing Guidelines](CONTRIBUTING.md)
+[Privacy Policy](PRIVACY_POLICY.md) • [Support](SUPPORT.md) • [Accessibility](ACCESSIBILITY.md) • [Contributing Guidelines](CONTRIBUTING.md)
 
 © 2025 Randomix. All rights reserved.
 

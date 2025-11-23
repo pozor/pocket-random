@@ -25,7 +25,23 @@ For full CC BY 4.0 license terms, visit: https://creativecommons.org/licenses/by
 
 ## Third-Party Dependencies
 
-Randomix uses various open-source libraries. See the app's Settings screen for a complete list of acknowledgments.
+Randomix is built using the following open-source libraries and frameworks:
+
+### Core Framework
+- **React Native** - MIT License
+- **Expo** - MIT License
+- **TypeScript** - Apache License 2.0
+
+### Navigation & UI
+- **React Navigation** - MIT License
+
+### Functionality
+- **i18next** - MIT License (internationalization)
+- **react-native-chart-kit** - MIT License (data visualizations)
+- **expo-sensors** - MIT License (gesture detection)
+- **expo-haptics** - MIT License (tactile feedback)
+
+All third-party libraries are used in accordance with their respective licenses. Full license texts are available in the application's node_modules directory and in each library's respective repository.
 
 ---
 
