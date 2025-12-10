@@ -34,13 +34,7 @@ Include:
 ## Contact
 
 - **GitHub Issues:** [github.com/pozor/randomix/issues](https://github.com/pozor/randomix/issues)
-- **Email:** dev@brunettospinelli.it (response within 48h)
-
----
-
-## Security Issues
-
-Found a vulnerability? Email dev@brunettospinelli.it directly. Do not open a public issue.
+- **Email:** dev@brunettospinelli.it
 
 ---
 
